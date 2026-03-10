@@ -1,0 +1,160 @@
+[2026-02-19 23:21:29,507] #INFO     dispatcher.py:596 - aiogram.dispatcher - Start polling
+[2026-02-19 23:21:29,631] #INFO     dispatcher.py:378 - aiogram.dispatcher - Run polling for bot @Lael_printables_bot id=8519613451 - 'Lael_Printables'
+[2026-02-19 23:22:27,072] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:22:27,575] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "POST /v3/payments HTTP/1.1" 200 788
+[2026-02-19 23:22:27,582] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:22:27,584] #DEBUG    service.py:79 - root - Confirmation URL: https://yoomoney.ru/checkout/payments/v2/contract/sbp?orderId=312984c3-000f-5000-b000-156488156520
+[2026-02-19 23:22:27,584] #DEBUG    service.py:80 - root - Payment ID: 312984c3-000f-5000-b000-156488156520
+[2026-02-19 23:22:27,588] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:22:28,038] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "POST /v3/payments HTTP/1.1" 200 783
+[2026-02-19 23:22:28,046] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:22:28,049] #DEBUG    service.py:79 - root - Confirmation URL: https://yoomoney.ru/checkout/payments/v2/contract/sbp?orderId=312984c4-000f-5000-b000-107515b37532
+[2026-02-19 23:22:28,049] #DEBUG    service.py:80 - root - Payment ID: 312984c4-000f-5000-b000-107515b37532
+[2026-02-19 23:22:28,883] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024675 is handled. Duration 1826 ms by bot id=8519613451
+[2026-02-19 23:22:32,331] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:22:32,737] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:22:32,738] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:22:32,886] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024676 is handled. Duration 557 ms by bot id=8519613451
+[2026-02-19 23:22:35,070] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:22:35,466] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 783
+[2026-02-19 23:22:35,467] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:22:35,621] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024677 is handled. Duration 554 ms by bot id=8519613451
+[2026-02-19 23:22:38,610] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:22:39,045] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 783
+[2026-02-19 23:22:39,046] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:22:39,216] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024678 is handled. Duration 608 ms by bot id=8519613451
+[2026-02-19 23:22:42,958] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:22:43,425] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 783
+[2026-02-19 23:22:43,426] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:22:43,676] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024679 is handled. Duration 721 ms by bot id=8519613451
+[2026-02-19 23:22:47,438] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:22:47,874] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 783
+[2026-02-19 23:22:47,875] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:22:48,043] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024680 is handled. Duration 608 ms by bot id=8519613451
+[2026-02-19 23:22:57,857] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:22:58,265] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:22:58,266] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:22:58,411] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024681 is handled. Duration 556 ms by bot id=8519613451
+[2026-02-19 23:23:00,670] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:23:00,671] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:23:00,791] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:23:01,052] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:23:01,132] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:23:01,133] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:23:01,138] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:23:01,138] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:23:01,218] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:23:01,219] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:23:01,292] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024682 is handled. Duration 626 ms by bot id=8519613451
+[2026-02-19 23:23:01,450] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024683 is handled. Duration 783 ms by bot id=8519613451
+[2026-02-19 23:23:01,451] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:23:01,452] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:23:01,534] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024684 is handled. Duration 746 ms by bot id=8519613451
+[2026-02-19 23:23:01,595] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024685 is handled. Duration 547 ms by bot id=8519613451
+[2026-02-19 23:25:21,871] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:25:22,305] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:25:22,314] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:25:44,366] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:25:44,786] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:25:44,787] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:25:47,013] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024686 is handled. Duration 25145 ms by bot id=8519613451
+[2026-02-19 23:25:48,889] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024687 is handled. Duration 4525 ms by bot id=8519613451
+[2026-02-19 23:25:53,151] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:25:53,587] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:25:53,588] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:26:17,306] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:26:17,736] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:26:17,737] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:26:18,022] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024688 is handled. Duration 24873 ms by bot id=8519613451
+[2026-02-19 23:26:21,219] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:26:21,645] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:26:21,646] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:26:23,584] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024690 is handled. Duration 2368 ms by bot id=8519613451
+[2026-02-19 23:26:23,832] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:26:24,250] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:26:24,251] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:26:25,254] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:26:25,681] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:26:25,682] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:26:27,749] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024692 is handled. Duration 2498 ms by bot id=8519613451
+[2026-02-19 23:26:32,614] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:26:33,060] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:26:33,061] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:26:33,218] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024693 is handled. Duration 607 ms by bot id=8519613451
+[2026-02-19 23:26:40,501] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024691 is handled. Duration 16672 ms by bot id=8519613451
+[2026-02-19 23:26:42,517] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024689 is handled. Duration 25214 ms by bot id=8519613451
+[2026-02-19 23:27:43,761] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:27:44,164] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:27:44,199] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:27:44,200] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:27:44,289] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:27:44,418] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:27:44,575] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:27:44,577] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:27:44,731] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:27:44,732] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:27:44,843] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:27:44,844] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:27:44,888] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:27:45,288] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:27:45,289] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:27:49,842] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:27:50,261] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:27:50,263] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:28:07,557] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024695 is handled. Duration 23396 ms by bot id=8519613451
+[2026-02-19 23:28:09,603] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024696 is handled. Duration 25317 ms by bot id=8519613451
+[2026-02-19 23:28:15,450] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024699 is handled. Duration 25609 ms by bot id=8519613451
+[2026-02-19 23:28:18,295] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024697 is handled. Duration 33880 ms by bot id=8519613451
+[2026-02-19 23:28:20,451] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024694 is handled. Duration 36693 ms by bot id=8519613451
+[2026-02-19 23:28:20,723] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024698 is handled. Duration 35836 ms by bot id=8519613451
+[2026-02-19 23:28:33,941] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:28:34,226] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:28:34,369] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:28:34,370] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:28:34,644] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:28:34,646] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:28:34,780] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:28:34,781] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:28:34,781] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:28:35,216] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:28:35,217] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:28:35,217] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:28:35,220] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:28:35,229] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:28:35,230] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:28:50,767] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024702 is handled. Duration 15995 ms by bot id=8519613451
+[2026-02-19 23:28:57,922] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024704 is handled. Duration 23150 ms by bot id=8519613451
+[2026-02-19 23:28:58,335] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024701 is handled. Duration 24117 ms by bot id=8519613451
+[2026-02-19 23:28:58,726] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024700 is handled. Duration 24793 ms by bot id=8519613451
+[2026-02-19 23:29:00,827] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024703 is handled. Duration 26056 ms by bot id=8519613451
+[2026-02-19 23:29:43,264] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:29:43,689] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:29:43,690] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:29:43,839] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024705 is handled. Duration 578 ms by bot id=8519613451
+[2026-02-19 23:29:43,869] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:29:44,005] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:29:44,005] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:29:44,125] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:29:44,283] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:29:44,284] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:29:44,417] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:29:44,418] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:29:44,424] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:29:44,425] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:29:44,458] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024706 is handled. Duration 591 ms by bot id=8519613451
+[2026-02-19 23:29:44,531] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:29:44,532] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:29:44,692] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024709 is handled. Duration 569 ms by bot id=8519613451
+[2026-02-19 23:29:44,792] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024707 is handled. Duration 790 ms by bot id=8519613451
+[2026-02-19 23:29:44,814] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024708 is handled. Duration 812 ms by bot id=8519613451
+[2026-02-19 23:29:49,832] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:29:50,250] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c3-000f-5000-b000-156488156520 HTTP/1.1" 200 788
+[2026-02-19 23:29:50,251] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:29:50,405] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024710 is handled. Duration 575 ms by bot id=8519613451
+[2026-02-19 23:39:42,547] #DEBUG    connectionpool.py:1049 - urllib3.connectionpool - Starting new HTTPS connection (1): api.yookassa.ru:443
+[2026-02-19 23:39:42,968] #DEBUG    connectionpool.py:544 - urllib3.connectionpool - https://api.yookassa.ru:443 "GET /v3/payments/312984c4-000f-5000-b000-107515b37532 HTTP/1.1" 200 959
+[2026-02-19 23:39:42,969] #DEBUG    api.py:462 - charset_normalizer - Encoding detection: utf_8 is most likely the one.
+[2026-02-19 23:40:01,022] #INFO     dispatcher.py:178 - aiogram.event - Update id=268024711 is handled. Duration 18478 ms by bot id=8519613451
+[2026-02-19 23:40:12,801] #WARNING  dispatcher.py:515 - aiogram.dispatcher - Received SIGINT signal
+[2026-02-19 23:40:12,801] #INFO     dispatcher.py:413 - aiogram.dispatcher - Polling stopped for bot @Lael_printables_bot id=8519613451 - 'Lael_Printables'
+[2026-02-19 23:40:12,801] #INFO     dispatcher.py:624 - aiogram.dispatcher - Polling stopped
