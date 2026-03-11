@@ -24,6 +24,10 @@ def get_photo2():
     return photo
 
 
+def get_photo3():
+    photo = FSInputFile('image3.jpg', filename=f'photo_img')
+    return photo
+
 # def create_payment(amount: int, description: str, chat_id: int, name: str):
 #     account_id, secret_key = yookassa()
 #     Configuration.account_id = account_id
